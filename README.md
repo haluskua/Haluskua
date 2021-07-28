@@ -1,8 +1,4 @@
 ### Here is what I am working on! 👋
-
-<!--
-**haluskua/Haluskua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Personal Portfolio
@@ -13,4 +9,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[haluskua.one@gmail.com]
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half finish
+-->
+<!--
+**haluskua/Haluskua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
