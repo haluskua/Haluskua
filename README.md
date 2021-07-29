@@ -1,6 +1,7 @@
+![Screenshot](batsies.jpg)
+
 ### Here is what I am working on! 👋
 
-![Image](batsies.jpg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Personal Portfolio
